@@ -1,0 +1,1 @@
+# Git pages for redirecting to CVAT glace moods
