@@ -1,3 +1,3 @@
-# Git pages for redirecting to Alpaca-Lora-7B demo
+# Git pages for redirecting to Flowers Super-Resolution demo
 
 **https://qducnguyen.github.io/cvdemo/**
